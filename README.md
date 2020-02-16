@@ -1,9 +1,11 @@
 # Flujo de pasajeros por aeropuerto y país de residencia
 
 A partir de la [información](https://www.datatur.sectur.gob.mx/Documentos%20compartidos/DatosAbiertos_SIOM_RES.zip)
- disponible en la [SECTUR]( https://www.datatur.sectur.gob.mx/SitePages/Visitantes%20por%20Residencia.aspx) se produce un mapa que muestra los aeropuertos con mayor flujo de visitantes (residentes extranjeros).
+ disponible en la [SECTUR]( https://www.datatur.sectur.gob.mx/SitePages/Visitantes%20por%20Residencia.aspx), [Global Airport Database (GADB)]( https://www.partow.net/miscellaneous/airportdatabase/) se produce un mapa que muestra los aeropuertos con mayor flujo de visitantes (residentes extranjeros).
  
 El procesamiento de datos se realizó en [R-Studio](https://rstudio.com/), [tidyverse](https://www.tidyverse.org/), [leaflet](https://rstudio.github.io/leaflet/).
+
+
 
 Enero 2020.
 
